@@ -1,0 +1,70 @@
+Name: zuhair
+Gurdian: saleem
+Address: isbbb
+Student phone: 333
+Parent phone: 33
+City: isb
+PAID FOR 6 MONTHS.
+
+Name: haris
+Gurdian: saleem
+Address: islamabad
+Student phone: 321
+Parent phone: 336
+City: issb
+
+Name: fdsfds
+Gurdian: sdfdfdsf
+Address: dsfsdfds
+Student phone: 485485
+Parent phone: 48548
+City: sdfdsf
+PAID FOR 6 MONTHS.86400
+
+Name: fdsfds
+Gurdian: sdfdfdsf
+Address: dsfsdfds
+Student phone: 485485
+Parent phone: 48548
+City: sdfdsf
+PAID FOR 6 MONTHS.110400
+
+Name: ffdf
+Gurdian: dfd
+Address: 564
+Student phone: 56
+Parent phone: 6546
+City: gdffg
+
+Name: dgdfgdf
+Gurdian: fdgdf
+Address: gfdg
+Student phone: 456456
+Parent phone: 59656
+City: gdf
+PAID FOR 6 MONTHS. Rs.96000
+
+Name: 
+Gurdian: 
+Address: 
+Student phone: 4201460
+Parent phone: 0
+City: 
+PAID FOR 6 MONTHS. Rs.23280
+
+Name: 
+Gurdian: 
+Address: 
+Student phone: 4201460
+Parent phone: 0
+City: 
+PAID FOR 6 MONTHS. Rs.57600
+
+Name: zuhair
+Gurdian: saleem
+Address: i-9
+Student phone: 332039
+Parent phone: 33486
+City: isb
+PAID FOR 6 MONTHS. Rs.33840
+
